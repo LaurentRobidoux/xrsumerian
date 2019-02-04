@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "sumerian-20190201162922-authRole",
+            "UnauthRoleArn": "arn:aws:iam::425400481373:role/sumerian-20190201162922-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::425400481373:role/sumerian-20190201162922-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "sumerian-20190201162922-deployment",
+            "UnauthRoleName": "sumerian-20190201162922-unauthRole",
+            "StackName": "sumerian-20190201162922",
+            "StackId": "arn:aws:cloudformation:us-east-1:425400481373:stack/sumerian-20190201162922/72424230-2668-11e9-a83e-12c395c1242e"
+        }
+    }
+}
